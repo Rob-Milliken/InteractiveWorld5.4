@@ -1,7 +1,8 @@
 // Copyright 2023 Sun BoHeng
 
 #include "WorldDrawingBoard.h"
-
+#include "Engine/World.h"
+#include "Materials/MaterialInterface.h"
 #include "InteractiveWorldSubsystem.h"
 #include "WorldInteractVolume.h"
 #include "Runtime/Engine/Public/TimerManager.h"
