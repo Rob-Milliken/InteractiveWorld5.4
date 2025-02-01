@@ -5,7 +5,7 @@
 Developed for: Unreal Engine
 Updated for a more recent engine. Except for fixes, no new functionality or optimization is inferred.
 
-Supported Engine Versions: This version was updated specifically for 5.5 - I have not back tested - Rob Milliken
+Supported Engine Versions: This version was updated specifically for 5.4 - I have not back tested - Rob Milliken
 
 Development Platforms: (Win64)
 
