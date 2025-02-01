@@ -6,7 +6,7 @@ Developed for: Unreal Engine
 
 ORIGINAL REPO: LingFengSBH/InteractiveWorld
 
-Updated for a more recent engine. Except for fixes, no new functionality or optimization is inferred.
+Updated for a more recent engine. Except for fixes, no new functionality or optimization is inferred. - Rob Milliken
 
 Supported Engine Versions: This version was updated specifically for 5.4 - I have not back tested - Rob Milliken
 
